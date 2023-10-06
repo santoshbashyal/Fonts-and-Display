@@ -1,0 +1,52 @@
+
+        *{padding: 0;
+        margin: 0;}
+
+        .navbar{
+            background-color: black;
+            height: 70px;
+
+        }
+        .navbar ul li{
+            display: inline-block;
+            padding: 5px;
+            margin: 15px ;
+        }
+        .navbar ul li a{
+            
+            text-decoration: none;
+            color: white;
+        }
+
+        .right{
+            background-color: red;
+            color: white;
+            height: 60vh;
+            width: 50%;
+            padding: 10%;
+            text-align: center;
+            display: inline-flex;
+            box-sizing: border-box;
+
+        }
+
+        .left{
+            background-color: blue;
+            color: white;
+            height: 60vh;
+            width: 50%;
+            padding: 10%;
+            display: inline-flex;
+            box-sizing: border-box;
+
+        }
+        .footer{
+            box-sizing: border-box;
+            padding: 70px;
+            height: 170px;
+            text-align: center ;
+            background-color: black;
+            color: white;
+
+        }
+
